@@ -1,4 +1,4 @@
-# 📝 Smart Task Manager
+# 📝 Smart Task Manager & Habit Tracker
 
 A modern, feature-rich task management application built with **React** and **Mantine UI**.
 This project was developed by incrementally enhancing a basic todo app into a
@@ -25,7 +25,7 @@ real-world, production-style application with clean UI and practical features.
 ## 🚀 Live Demo
 
 🔗 **Live URL:**  
-👉 https://todo-react-app.vercel.app  
+👉 (https://streakster-by-mayur.vercel.app/)  
 *(Replace with your actual deployed link if different)*
 
 ---
